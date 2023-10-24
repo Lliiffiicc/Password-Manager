@@ -4,6 +4,6 @@ These username and passwords are saved in a user database as a dictionary. When 
 
 In order to log in to the website, Two-Factor Authentication (2FA) is required, for added security measures. Login is denied if either username or password or 2FA OTP does not match.
 
-Since many accounts are created, if a user wants to access their usernames and passwords, they can access a password manager which stores the login information
+Since many accounts are created, if a user wants to access their usernames and passwords, they can open a password manager which stores all the login information.
 The password manager allows the user to also edit/delete the login information as well.
 
